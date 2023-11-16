@@ -1,2 +1,2 @@
 # demo-web-ikour
-demo for the ikout school website
+demo for the private additional courses scholls in algeria (ikours)
